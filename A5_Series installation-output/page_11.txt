@@ -1,30 +1,30 @@
-S t e p 4
+Step 4
 Installation Manual:
-1. Fix the laser head on the slider board with 
-M5*10 countersunk head screws. The screws 
+ 1. Fix the laser head on the slider board with 
+M 5* 10 countersunk head screws. The screws 
 must be tightened.
-2. Insert the green protective covers on the 
+ 2. Insert the green protective covers on the 
 left and right sides.
-3. Insert the front green protective cover.
-4. Fix the front protective cover with M5*14 
+ 3. Insert the front green protective cover.
+ 4. Fix the front protective cover with M 5* 14 
 flat round head screws.
-1
-2
-3
-4
-1
-1
-2
-3
-4
+ 1
+ 2
+ 3
+ 4
+ 1
+ 1
+ 2
+ 3
+ 4
 Y
 X
 Front protective 
-cover *1
+cover * 1
 Protective covers on both sides 
-*2
-Laser head *1
-M5*14 Flat round head 
-screw*1
-M5*10 Countersunk screw *2
-Step4 Required components:
+* 2
+Laser head * 1
+M 5* 14 Flat round head 
+screw* 1
+M 5* 10 Countersunk screw * 2
+Step 4 Required components:

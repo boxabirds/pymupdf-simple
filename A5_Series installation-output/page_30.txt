@@ -1,11 +1,11 @@
-S c h r i t t  6   I n s t a l l i e r e n  S i e  d i e  K l e m m e n b l ö c k e  
-u n d  b ü n d e l n  S i e  d i e  K a b e l
+Schritt   6   Installieren  Sie  die  Klemmenblöcke  
+und  bündeln  Sie  die  Kabel
 Installationsanleitung:
-1. Stecken Sie drei Kabelklemmen wie in dem Bild 
+ 1. Stecken Sie drei Kabelklemmen wie in dem Bild 
 gezeigt ein.
-2. Wie in der Abbildung gezeigt binden Sie die 
+ 2. Wie in der Abbildung gezeigt binden Sie die 
 Kabelbefestigungslöcher und Kabelbündel mit 
 Kabelbindern, um ein Lösen der Drahtklemmen zu 
 verhindern.
-1
-2
+ 1
+ 2

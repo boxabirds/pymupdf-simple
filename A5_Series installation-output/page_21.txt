@@ -1,15 +1,15 @@
 Laserlicht kann die menschlichen Augen und die Haut schädigen. Setzen Sie das Auge oder die Haut nicht direkt Laserlicht aus. Dieses 
 Laserprodukt hat eine optische Linse und sendet einen kollimierten Laserstrahl aus. Das direkte und reflektierte Licht dieses Produkts ist 
 sehr schädlich, da es sich über eine lange Strecke ausbreiten kann und gleichzeitig eine hohe optische Dichte beibehält. Tragen Sie 
-beim Umgang mit dem Produkt eine geeignete Schutzbrille (OD5 +), um die Augen vor Laserlicht einschließlich reflektiertem Licht und 
+beim Umgang mit dem Produkt eine geeignete Schutzbrille (OD 5 +), um die Augen vor Laserlicht einschließlich reflektiertem Licht und 
 Streulicht zu schützen. Das reflektierte und streunende Licht, das in einen unbeabsichtigten Bereich gelangt, sollte gedämpft und / oder 
 absorbiert werden.
-2.1 Lasersicherheit
+ 2. 1 Lasersicherheit
 Wir haben eine Laserabschirmung am Laser installiert, die die diffuse Reflexion des Laserspots weitgehend herausfiltern kann. Bei 
 Verwendung einer Lasergravurmaschine wird jedoch empfohlen, eine Laserschutzbrille zu tragen. Vermeiden Sie die Exposition der 
-Haut gegenüber Laserstrahlen des Typs 4, insbesondere aus nächster Nähe. Die Teenager müssen bei der Verwendung von den Eltern 
+Haut gegenüber Laserstrahlen des Typs  4, insbesondere aus nächster Nähe. Die Teenager müssen bei der Verwendung von den Eltern 
 beaufsichtigt werden. Berühren Sie das Lasergravurmodul nicht, wenn die Maschine eingeschaltet ist.
-2.2 Brandschutz
+ 2. 2 Brandschutz
 Da das Schneiden das Substrat abbrennt, erzeugt ein hochintensiver Laserstrahl extrem hohe Temperaturen und viel Wärme. 
 Bestimmte Materialien können sich beim Schneiden entzünden und Gase und Dämpfe im Gerät erzeugen. Hier tritt normalerweise eine 
 kleine Flamme auf, wenn ein Laserstrahl aufschlägt Das Material bewegt sich mit dem Laser und bleibt beim Vorbeifahren des Lasers 
@@ -18,4 +18,4 @@ Gebrauch Schmutz, Ablagerungen und brennbare Materialien beim Laserschneiden Hal
 Feuerlöscher in der Nähe. Rauch- oder Luftschadstoffsicherheit. Bei Verwendung von Lasergravurmaschinen entstehen Rauch, Dampf, 
 Partikel und möglicherweise hochgiftige Materialien (Kunststoffe und andere brennbare Materialien) aus dem Material. Diese Dämpfe 
 oder Luftschadstoffe können gesundheitsschädlich sein.
-Teil 2: Erklärung zur Benutzersicherheit
+Teil  2: Erklärung zur Benutzersicherheit

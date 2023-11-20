@@ -4,10 +4,21 @@ import os
 from PIL import Image
 import argparse
 
+import re
+
+import re
+
 def extract_text(pdf_path, output_path):
     doc = fitz.open(pdf_path)
     for i in range(len(doc)):
         text = doc[i].get_text()
+
+        # Remove extra spaces between single characters that are part of a word
+        text = re.sub(r'(?<=\b\w) (?=\w\b)', '', text)
+
+        # Add space before numbers
+        text = re.sub(r'(\D)(\d)', r'\1 \2', text)
+
         with open(f'{output_path}/page_{i+1}.txt', 'w') as f:
             f.write(text)
 

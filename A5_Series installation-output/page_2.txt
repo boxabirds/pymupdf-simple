@@ -1,18 +1,18 @@
 Before Using the laser engraving, please read this safety guide carefully, it mentions situations that require special attention and 
 includes warnings of unsafe practices that can cause damage to your property or even endanger your personal safety.
-1. This product is a laser engraver system components, must be installed in other manufacturers of laser engraver for use.And the 
-product belongs to Class 4  laser products, the laser system itself must meet the requirements of IEC 60825-1 latest version, otherwise 
+ 1. This product is a laser engraver system components, must be installed in other manufacturers of laser engraver for use.And the 
+product belongs to Class  4  laser products, the laser system itself must meet the requirements of IEC  60825- 1 latest version, otherwise 
 the product is prohibited to be used.
-2. Your laser engraver shall have a protective housing which, when in place, prevents human access to laser radiation.
-3. If a protective housing is equipped with an access panel which provides "walk-in" access then: 
+ 2. Your laser engraver shall have a protective housing which, when in place, prevents human access to laser radiation.
+ 3. If a protective housing is equipped with an access panel which provides "walk-in" access then: 
 a)means shall be provided so that any person inside the protective housing can prevent activation of a laser hazard that is equivalent to 
-Class 3B or Class 4. 
-b）a warning device shall be situated so as to provide adequate warning of emission of laser radiation equivalent to Class 3R in the 
-wavelength range below 400 nm and above 700 nm, or of laser radiation equivalent to Class 3B or Class 4 to any person who might be 
+Class  3B or Class  4. 
+b）a warning device shall be situated so as to provide adequate warning of emission of laser radiation equivalent to Class  3R in the 
+wavelength range below  400 nm and above  700 nm, or of laser radiation equivalent to Class  3B or Class  4 to any person who might be 
 within the protective housing. 
 c) where “walk-in” access during operation is intended or reasonably foreseeable, emission of laser radiation that is equivalent to Class 
-3B or Class 4 while someone is present inside the protective housing of a Class 1, Class 2, or Class 3R product shall be prevented by 
+ 3B or Class  4 while someone is present inside the protective housing of a Class  1, Class  2, or Class  3R product shall be prevented by 
 engineering means. 
    NOTE Methods to prevent human access to radiation when persons are inside the protective housing can include pressure sensitive 
 floor mats, infrared detectors, etc. 
-Part 1： Security Statment Before Installation
+Part  1： Security Statment Before Installation

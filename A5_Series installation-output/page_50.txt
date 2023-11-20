@@ -1,10 +1,10 @@
-Partie 6：Précautions pour les problèmes courants 
+Partie  6：Précautions pour les problèmes courants 
 avec la machine de gravure 
-1. La connexion entre le logiciel et l'appareil doit sélectionner le bon port COM, sélectionner le débit en bauds: 115200 pour 
+ 1. La connexion entre le logiciel et l'appareil doit sélectionner le bon port COM, sélectionner le débit en bauds:  115200 pour 
 vérifier si l'interface de l'ordinateur et la connexion USB sont lâches.
-2. Avant de graver, veuillez vérifier si chaque mécanisme est lâche (si la courroie de distribution, la colonne excentrique du 
+ 2. Avant de graver, veuillez vérifier si chaque mécanisme est lâche (si la courroie de distribution, la colonne excentrique du 
 rouleau et les composants de la tête laser sont desserrés ou secoués).
-3. Ajustez correctement la mise au point et assurez-vous que la distance entre l'extrémité du couvercle de protection laser et la 
-gravure est de 2 mm.
-4. Le logiciel LaserGRBL / LightBurn peut utiliser le tableau des paramètres du manuel correspondant pour graver et découper 
+ 3. Ajustez correctement la mise au point et assurez-vous que la distance entre l'extrémité du couvercle de protection laser et la 
+gravure est de  2 mm.
+ 4. Le logiciel LaserGRBL / LightBurn peut utiliser le tableau des paramètres du manuel correspondant pour graver et découper 
 divers matériaux. La gravure du métal du miroir nécessite un noircissement manuel de la surface.

@@ -1,31 +1,31 @@
-É t a p e  4
+Étape   4
 Installation Manuel:
-1. Fixez la tête laser sur le panneau coulissant 
-avec des vis à tête fraisée M5 * 10. Les vis 
+ 1. Fixez la tête laser sur le panneau coulissant 
+avec des vis à tête fraisée M 5 *  10. Les vis 
 doivent être serrées.
-2. Insérez les capots de protection verts sur les 
+ 2. Insérez les capots de protection verts sur les 
 côtés gauche et droit.
-3. Insérez le couvercle de protection vert avant.
-4. Fixez le couvercle de protection avant avec 
-des vis à tête ronde plate M5 * 14.
-1
-2
-3
-4
-1
-1
-2
-3
-4
+ 3. Insérez le couvercle de protection vert avant.
+ 4. Fixez le couvercle de protection avant avec 
+des vis à tête ronde plate M 5 *  14.
+ 1
+ 2
+ 3
+ 4
+ 1
+ 1
+ 2
+ 3
+ 4
 Y
 X
 Capot de protection 
-avant*1
+avant* 1
 Housses de protection 
-des deux côtés * 2
-Tête laser*1
-M5 * 14 Vis à tête 
-ronde plate * 1
-Vis à tête fraisée M5 * 10 * 
-2
-Étape 4 Composants requis:
+des deux côtés *  2
+Tête laser* 1
+M 5 *  14 Vis à tête 
+ronde plate *  1
+Vis à tête fraisée M 5 *  10 * 
+ 2
+Étape  4 Composants requis:

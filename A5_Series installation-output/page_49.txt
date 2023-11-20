@@ -1,13 +1,13 @@
-Partie 5:Instructions d'entretien et 
+Partie  5:Instructions d'entretien et 
 avertissement
 Ce produit utilise une conception hautement intégrée et ne nécessite aucun entretien. Cependant, si le système laser installé 
 avec ce produit doit être réparé ou réglé, veuillez:
-1.Débranchez le cordon d'alimentation du laser, de sorte que le laser soit en état de panne de courant;
-2.Si vous avez besoin d'une assistance laser pour le réglage, veuillez:
-        1.Tout le personnel présent porte des lunettes de protection, un verre de protection OD5 + est nécessaire;
-        2.Assurez-vous qu'il n'y a pas de matériaux inflammables ou explosifs à proximité;
-        3.La position et la direction du laser sont fixées pour garantir que le laser ne se déplacera pas accidentellement et ne 
+ 1.Débranchez le cordon d'alimentation du laser, de sorte que le laser soit en état de panne de courant;
+ 2.Si vous avez besoin d'une assistance laser pour le réglage, veuillez:
+         1.Tout le personnel présent porte des lunettes de protection, un verre de protection OD 5 + est nécessaire;
+         2.Assurez-vous qu'il n'ya pas de matériaux inflammables ou explosifs à proximité;
+         3.La position et la direction du laser sont fixées pour garantir que le laser ne se déplacera pas accidentellement et ne 
 brillera pas sur les personnes, les animaux, les objets inflammables, explosifs et autres objets dangereux et précieux pendant 
 le débogage.
-        4.Ne regardez pas les lasers.
-        5.Ne dirigez pas le laser sur l'objet miroir, de peur que la réflexion du laser ne provoque des blessures accidentelles.
+         4.Ne regardez pas les lasers.
+         5.Ne dirigez pas le laser sur l'objet miroir, de peur que la réflexion du laser ne provoque des blessures accidentelles.

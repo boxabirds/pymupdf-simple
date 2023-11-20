@@ -1,7 +1,7 @@
-P a r t  4 ： I n s t a l l a t i o n  S t e p s
-Step1. Install the contour of the engraving machine
-Step2. Install X axis assembly, control box and support frame
-Step3. Install belt and aluminum profile end cap
-Step4. Install laser and laser protective cover
-Step5. Install the Y-axis limit column and adjust the X and Y-axis eccentric screws
-Step6. Install the cable and fix the cable
+Part   4 ： Installation  Steps
+Step 1. Install the contour of the engraving machine
+Step 2. Install X axis assembly, control box and support frame
+Step 3. Install belt and aluminum profile end cap
+Step 4. Install laser and laser protective cover
+Step 5. Install the Y-axis limit column and adjust the X and Y-axis eccentric screws
+Step 6. Install the cable and fix the cable

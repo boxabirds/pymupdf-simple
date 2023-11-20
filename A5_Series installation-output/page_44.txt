@@ -1,40 +1,40 @@
-É t a p e  3
+Étape   3
 Installation Manuel:
-1. Installez deux courroies synchrones comme indiqué sur la figure. 
+ 1. Installez deux courroies synchrones comme indiqué sur la figure. 
 Serrer d'abord une extrémité avec un écrou en T, puis passer l'autre 
 extrémité à travers le rouleau sur l'assemblage de l'axe X comme 
 indiqué sur la figure, et enfin serrer l'autre extrémité et la fixer avec un 
 écrou en T.
-2. Méthode de fixation de l'écrou en T (poussez l'écrou en T de la 
-rainure à l'extrémité du profil, puis utilisez la vis pour serrer l'écrou en 
+ 2. Méthode de fixation de l'écrou en T (poussez l'écrou en T de la 
+rainure àl'extrémité du profil, puis utilisez la vis pour serrer l'écrou en 
 T), l'écrou en T est aussi proche de l'extrémité du profil que possible, et 
 coupez l'excédent de bande.
-3. Couvrir le couvercle d'extrémité du profilé (le côté du capuchon 
+ 3. Couvrir le couvercle d'extrémité du profilé (le côté du capuchon 
 d'extrémité avec les saillies est orienté vers le bas).
 CONSEILS:
 L'installation de la courroie synchrone de l'axe Y peut faire référence à 
 la courroie synchrone installée sur l'ensemble de l'axe X.
 Déterminez si la courroie de distribution est suffisamment tendue: 
-appuyez sur la position indiquée à la figure 4 avec vos doigts, et s'il n'y 
+appuyez sur la position indiquée à la figure  4 avec vos doigts, et s'il n'y 
 a pas de déformation évidente, elle est suffisamment serrée. Si la 
 déformation est importante, desserrez une extrémité de l'écrou en T et 
 serrez la courroie de distribution, puis serrez l'écrou en T.
-1
-3
-3
-3
-3
-2
-Étape 3 Composants requis:
-4
+ 1
+ 3
+ 3
+ 3
+ 3
+ 2
+Étape  3 Composants requis:
+ 4
 Serrez l'écrou en T et 
 coupez l'excédent de 
 courroie.
-5
+ 5
 Écrou de type 
-T *4
+T * 4
 Vis de blocage 
-d'écrou de type T*4
+d'écrou de type T* 4
 Couvercle d'extrémité de 
-profil * 4
-Courroie synchrone * 2
+profil *  4
+Courroie synchrone *  2

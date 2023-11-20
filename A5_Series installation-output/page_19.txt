@@ -1,17 +1,17 @@
-Teil 1: Sicherheitserklärung vor der Installation
+Teil  1: Sicherheitserklärung vor der Installation
 Bevor Sie die Lasergravur verwenden, lesen Sie diese Sicherheitsanleitung sorgfältig durch. Sie erwähnt Situationen, die besondere 
 Aufmerksamkeit erfordern, und warnt vor unsicheren Praktiken, die Ihr Eigentum beschädigen oder sogar Ihre persönliche 
 Sicherheit gefährden können. 
-1.Dieses Produkt ist eine Komponente eines Lasergraviersystems und muss zur Verwendung bei anderen Herstellern von 
-Lasergraviergeräten installiert werden. Wenn das Produkt zu Laserprodukten der Klasse 4 gehört, muss das Lasersystem selbst die 
-Anforderungen der neuesten Version nach IEC 60825-1 erfüllen Die Verwendung des Produkts ist verboten. 
-2. Ihr Lasergravierer muss über ein Schutzgehäuse verfügen, das den Zugang des Menschen zu Laserstrahlung verhindert. 
-3.Wenn ein Schutzgehäuse mit einer Zugangsklappe ausgestattet ist, die einen "begehbaren" Zugang bietet, müssen: a) Mittel vorhanden 
-sein, damit jede Person im Schutzgehäuse die Aktivierung einer Lasergefahr verhindern kann, die der Klasse 3B oder entspricht Klasse 4. b） 
-Eine Warneinrichtung muss so angebracht sein, dass eine angemessene Warnung vor der Emission von Laserstrahlung der Klasse 3R im 
-Wellenlängenbereich unter 400 nm und über 700 nm oder vor Laserstrahlung der Klasse 3B oder Klasse 4 an Personen gerichtet ist, die 
+ 1.Dieses Produkt ist eine Komponente eines Lasergraviersystems und muss zur Verwendung bei anderen Herstellern von 
+Lasergraviergeräten installiert werden. Wenn das Produkt zu Laserprodukten der Klasse  4 gehört, muss das Lasersystem selbst die 
+Anforderungen der neuesten Version nach IEC  60825- 1 erfüllen Die Verwendung des Produkts ist verboten. 
+ 2. Ihr Lasergravierer muss über ein Schutzgehäuse verfügen, das den Zugang des Menschen zu Laserstrahlung verhindert. 
+ 3.Wenn ein Schutzgehäuse mit einer Zugangsklappe ausgestattet ist, die einen "begehbaren" Zugang bietet, müssen: a) Mittel vorhanden 
+sein, damit jede Person im Schutzgehäuse die Aktivierung einer Lasergefahr verhindern kann, die der Klasse  3B oder entspricht Klasse  4. b） 
+Eine Warneinrichtung muss so angebracht sein, dass eine angemessene Warnung vor der Emission von Laserstrahlung der Klasse  3R im 
+Wellenlängenbereich unter  400 nm und über  700 nm oder vor Laserstrahlung der Klasse  3B oder Klasse  4 an Personen gerichtet ist, die 
 könnte sich innerhalb des Schutzgehäuses befinden. c) Wenn ein „begehbarer“ Zugang während des Betriebs beabsichtigt oder 
-vernünftigerweise vorhersehbar ist, Emission von Laserstrahlung, die der Klasse 3B oder Klasse 4 entspricht, während sich jemand im 
-Schutzgehäuse eines Produkts der Klasse 1, Klasse 2 oder Klasse 3R befindet durch technische Mittel verhindert werden. HINWEIS Zu den 
+vernünftigerweise vorhersehbar ist, Emission von Laserstrahlung, die der Klasse  3B oder Klasse  4 entspricht, während sich jemand im 
+Schutzgehäuse eines Produkts der Klasse  1, Klasse  2 oder Klasse  3R befindet durch technische Mittel verhindert werden. HINWEIS Zu den 
 Methoden, die den Zugang von Menschen zu Strahlung verhindern, wenn sich Personen im Schutzgehäuse befinden, können 
 druckempfindliche Fußmatten, Infrarotdetektoren usw. gehören. 

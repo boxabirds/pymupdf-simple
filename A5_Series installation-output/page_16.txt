@@ -1,11 +1,11 @@
-Part 6：Precautions for common problems of 
+Part  6：Precautions for common problems of 
 engraving machine
-1.Please select the correct COM port for connecting the software and equipment, and the baud rate should be selected: 115200, to 
+ 1.Please select the correct COM port for connecting the software and equipment, and the baud rate should be selected:  115200, to 
 ensure that the connection between the computer port and the USB cable is not loose.If you need laser assistance for tuning, 
 please:
-2.Before engraving, please confirm whether each mechanism is loose (synchronous belt, eccentric column of roller, and laser head 
+ 2.Before engraving, please confirm whether each mechanism is loose (synchronous belt, eccentric column of roller, and laser head 
 are loose or shaken)
-3.Correctly adjust the focus and confirm that the distance from the end of the laser protective cover to the engraving is 2mm.
+ 3.Correctly adjust the focus and confirm that the distance from the end of the laser protective cover to the engraving is  2mm.
  
-4.LaserGRBL/LightBurn software can refer to the parameter table in the   corresponding manual for engraving and cutting of 
+ 4.LaserGRBL/LightBurn software can refer to the parameter table in the   corresponding manual for engraving and cutting of 
 different materials. The engraving of mirror metal requires manual surface blackening treatment.

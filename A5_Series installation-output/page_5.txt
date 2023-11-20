@@ -1,13 +1,13 @@
-2.3 Material safety  
+2. 3 Material safety  
 Do not engrave materials with unknown properties.Materials Recommended:Wood, bamboo, leather, plastic, fabric, paper, opaque 
 acrylic, glass.Materials not recommended:Metal, precious stones, transparent materials, reflective materials etc.
-2.4 Use Safety
+ 2. 4 Use Safety
 Use the engraver only in horizontal position and ensure that it has been securely fixed to prevent fires caused by accidental shifting or 
 dropping from the workbench during work.It is forbidden to point the laser to people, animals or any combustible object, whether it is 
 in working condition or not.
-2.5 Power safety
+ 2. 5 Power safety
 To prevent accidental disasters such as fire and electric shock, the   Engraver provides a power adapter with a  
 ground wire. Plug the power plug into the power socket with a ground  wire when using the  Laser Engraver.
-2.6 Environment safety
+ 2. 6 Environment safety
 Please ensure the workplace must be cleared while assembling engraving and cutting no flammable or explosive materials surrouding 
 the equitment. Have to set a metal plank under the bottom while engraving or cutting.

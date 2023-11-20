@@ -1,24 +1,24 @@
 Installation Manual:
-1. As shown in the figure, fix the Y-axis limit 
-column with M3*14 screws on the left slide rail.
-2. Adjust the eccentric nut to ensure that the X-
+ 1. As shown in the figure, fix the Y-axis limit 
+column with M 3* 14 screws on the left slide rail.
+ 2. Adjust the eccentric nut to ensure that the X-
 axis and Y-axis move smoothly without shaking.
 TIPS：
 How to determine the tightness of eccentric nuts?
 Under the condition of ensuring that the bracket does 
 not shake, you can lift one end of the machine to an 
-angle of 45 degrees with the horizontal plane, and 
+angle of  45 degrees with the horizontal plane, and 
 release the X-axis or Y-axis bracket from a high place. 
 If the bracket can slide at a constant speed to the end, 
 the tightness is suitable.
 Y
 X
-M3*14Screw*1  
-(Pro：M3*14Screw*2)
-Y-axis limit column *1
- (Pro;Y-axis limit column *2)
-Step5 Required components:
-S t e p 5
+M 3* 14Screw* 1  
+(Pro：M 3* 14Screw* 2)
+Y-axis limit column * 1
+ (Pro;Y-axis limit column * 2)
+Step 5 Required components:
+Step 5
 Use a wrench to turn the eccentric 
 nut to adjust the tightness of the 
 guide wheel and the guide rail

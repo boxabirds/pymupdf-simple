@@ -1,26 +1,26 @@
 Installation Manual:
-1. Comme indiqué sur la figure, fixez la colonne de limite 
-de l'axe Y avec des vis M3 * 14 sur la glissière gauche.
-2. Ajustez l'écrou excentrique pour vous assurer que les 
+ 1. Comme indiqué sur la figure, fixez la colonne de limite 
+de l'axe Y avec des vis M 3 *  14 sur la glissière gauche.
+ 2. Ajustez l'écrou excentrique pour vous assurer que les 
 axes X et Y se déplacent en douceur sans trembler.
 CONSEILS:
 Comment déterminer l'étanchéité des écrous excentriques?
 À condition de garantir que le support ne secoue pas, 
 vous pouvez soulever une extrémité de la machine à un 
-angle de 45 degrés avec le plan horizontal et libérer le 
-support d'axe X ou d'axe Y d'un endroit élevé. Si le 
+angle de  45 degrés avec le plan horizontal et libérer le 
+support d'axe X ou d'axe Yd'un endroit élevé. Si le 
 support peut glisser à une vitesse constante jusqu'à la fin, 
 l'étanchéité est appropriée.
 Y
 X
-M3*14 Vis*1
-(Pro:M3*14 Vis*2)
+M 3* 14 Vis* 1
+(Pro:M 3* 14 Vis* 2)
 Colonne de limite de 
-l'axe Y*1
+l'axe Y* 1
 (Pro:Colonne de limite 
-de l'axe Y*2)
-Étape 5 Composants requis:
-É t a p e  5
+de l'axe Y* 2)
+Étape  5 Composants requis:
+Étape   5
 Utilisez une clé pour tourner l'écrou 
 excentrique pour régler le serrage de 
 la roue de guidage et du rail de 

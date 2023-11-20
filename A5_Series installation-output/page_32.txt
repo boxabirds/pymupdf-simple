@@ -1,12 +1,12 @@
-Teil 5: Wartungsanweisungen und Warnung
+Teil  5: Wartungsanweisungen und Warnung
 Dieses Produkt verfügt über ein hochintegriertes Design und ist wartungsfrei. Wenn das mit diesem Produkt installierte 
 Lasersystem jedoch repariert oder eingestellt werden muss, gehen Sie bitte wie folgt vor:
-1.Ziehen Sie das Netzkabel vom Laser ab, damit sich der Laser in einem Stromausfall befindet.
-2.Wenn Sie Laserunterstützung zum Einstellen benötigen, bitte:
-        1.Alle anwesenden Mitarbeiter tragen eine Schutzbrille, OD5 + Schutzglas wird benötigt;
-        2.Stellen Sie sicher, dass sich keine brennbaren oder explosiven Materialien in der Nähe befinden.
-        3.Die Position und Richtung des Lasers sind festgelegt, um sicherzustellen, dass sich der Laser beim Debuggen nicht 
+ 1.Ziehen Sie das Netzkabel vom Laser ab, damit sich der Laser in einem Stromausfall befindet.
+ 2.Wenn Sie Laserunterstützung zum Einstellen benötigen, bitte:
+         1.Alle anwesenden Mitarbeiter tragen eine Schutzbrille, OD 5 + Schutzglas wird benötigt;
+         2.Stellen Sie sicher, dass sich keine brennbaren oder explosiven Materialien in der Nähe befinden.
+         3.Die Position und Richtung des Lasers sind festgelegt, um sicherzustellen, dass sich der Laser beim Debuggen nicht 
 versehentlich bewegt und auf Menschen, Tiere, brennbare, explosive und andere gefährliche und wertvolle Objekte scheint.
-        4.Schau nicht auf Laser.
-        5.Richten Sie den Laser nicht auf das Spiegelobjekt, damit die Laserreflexion keine versehentlichen Verletzungen 
+         4.Schau nicht auf Laser.
+         5.Richten Sie den Laser nicht auf das Spiegelobjekt, damit die Laserreflexion keine versehentlichen Verletzungen 
 verursacht.

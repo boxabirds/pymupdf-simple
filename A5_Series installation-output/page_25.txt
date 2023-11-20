@@ -1,10 +1,10 @@
-S c h r i t t  1
+Schritt   1
 Installationsmethode:
-1. Suchen Sie zuerst die vier großen Profile im 
+ 1. Suchen Sie zuerst die vier großen Profile im 
 obigen Bild, platzieren Sie die vier Profile wie 
 gezeigt und achten Sie auf die Richtung der Profile.
-2. Platzieren Sie die Profile, indem Sie die Details 
-des Bildes vergrößern. Ziehen Sie die M5-Schraube 
+ 2. Platzieren Sie die Profile, indem Sie die Details 
+des Bildes vergrößern. Ziehen Sie die M 5-Schraube 
 in der Welle fest und beurteilen Sie anhand der 
 vergrößerten Detail, ob Sie sie richtig installiert 
 haben. 
@@ -12,8 +12,8 @@ WICHTIGE TIPPS：
 a. Alle Schrauben sollten zuerst angezogen werden, 
 aber nicht festziehen
 b. Ziehen Sie dann die Schrauben diagonal an.
-C. Erforderliches Werkzeug, Inbusschlüssel M5 + 
-Schraube M5
+C. Erforderliches Werkzeug, Inbusschlüssel M 5 + 
+Schraube M 5
 Seite mit Seidendruckte 
 LOGO zeigt  nach oben
 Die Seite mit den Löchern zeigt 
@@ -24,4 +24,4 @@ Y
 Achten auf die 
 Schriftrichtung 
 der Häkchen
-Schritt 1 Erforderliche Komponenten ：
+Schritt  1 Erforderliche Komponenten ：

@@ -1,19 +1,19 @@
 Avant d'utiliser la gravure laser, veuillez lire attentivement ce guide de sécurité, il mentionne les situations qui nécessitent une 
 attention particulière et inclut des avertissements de pratiques dangereuses qui peuvent endommager votre propriété ou même 
 mettre en danger votre sécurité personnelle.
-1.Ce produit est un composant du système de gravure laser, doit être installé chez d'autres fabricants de graveur laser pour utilisation.Et 
-le produit appartient à des produits laser de classe 4, le système laser lui-même doit répondre aux exigences de la dernière version de la 
-norme CEI 60825-1, sinon l'utilisation du produit est interdite.
-2.Votre graveur laser doit avoir un boîtier de protection qui, lorsqu'il est en place, empêche l'accès humain au rayonnement laser.
-3.Si un boîtier de protection est équipé d'un panneau d'accès qui permet un accès "de plain-pied", alors: a) des moyens doivent être 
-prévus pour que toute personne à l'intérieur du boîtier de protection puisse empêcher l'activation d'un danger laser équivalent à la 
-classe 3B ou Classe 4. b） un dispositif d'avertissement doit être situé de manière à fournir un avertissement adéquat de l'émission d'un 
-rayonnement laser équivalent à la classe 3R dans la gamme de longueurs d'onde inférieure à 400 nm et supérieure à 700 nm, ou d'un 
-rayonnement laser équivalent à la classe 3B ou à la classe 4 à toute personne qui pourrait se trouver dans le boîtier de protection. c) 
+ 1.Ce produit est un composant du système de gravure laser, doit être installé chez d'autres fabricants de graveur laser pour utilisation.Et 
+le produit appartient à des produits laser de classe  4, le système laser lui-même doit répondre aux exigences de la dernière version de la 
+norme CEI  60825- 1, sinon l'utilisation du produit est interdite.
+ 2.Votre graveur laser doit avoir un boîtier de protection qui, lorsqu'il est en place, empêche l'accès humain au rayonnement laser.
+ 3.Si un boîtier de protection est équipé d'un panneau d'accès qui permet un accès "de plain-pied", alors: a) des moyens doivent être 
+prévus pour que toute personne àl'intérieur du boîtier de protection puisse empêcher l'activation d'un danger laser équivalent à la 
+classe  3B ou Classe  4. b） un dispositif d'avertissement doit être situé de manière à fournir un avertissement adéquat de l'émission d'un 
+rayonnement laser équivalent à la classe  3R dans la gamme de longueurs d'onde inférieure à  400 nm et supérieure à  700 nm, ou d'un 
+rayonnement laser équivalent à la classe  3B ou à la classe  4à toute personne qui pourrait se trouver dans le boîtier de protection. c) 
 lorsque l'accès «sans rendez-vous» pendant le fonctionnement est prévu ou raisonnablement prévisible, émission d'un rayonnement 
-laser équivalent à la classe 3B ou la classe 4 alors qu'une personne est présente à l'intérieur du boîtier de protection d'un produit de 
-classe 1, classe 2 ou classe 3R doit être empêchée par des moyens techniques.   NOTE Methods to prevent human access to radiation 
+laser équivalent à la classe  3B ou la classe  4 alors qu'une personne est présente àl'intérieur du boîtier de protection d'un produit de 
+classe  1, classe  2 ou classe  3R doit être empêchée par des moyens techniques.   NOTE Methods to prevent human access to radiation 
 when persons are inside the protective housing can include pressure sensitive floor mats, infrared detectors, etc. 
-NOTE Les méthodes pour empêcher l'accès humain aux rayonnements lorsque des personnes se trouvent à l'intérieur du boîtier de 
+NOTE Les méthodes pour empêcher l'accès humain aux rayonnements lorsque des personnes se trouvent àl'intérieur du boîtier de 
 protection peuvent inclure des tapis de sol sensibles à la pression, des détecteurs infrarouges, etc.
-Partie 1: Déclaration de sécurité avant l'installation
+Partie  1: Déclaration de sécurité avant l'installation

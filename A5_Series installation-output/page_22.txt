@@ -1,14 +1,14 @@
-2.3 Materialsicherheit  
+2. 3 Materialsicherheit  
 Gravieren Sie keine Materialien mit unbekannten Eigenschaften. Empfohlene Materialien: Holz, Bambus, Leder, Kunststoff, Stoff, Papier, 
 opakes Acryl, Glas. Nicht empfohlene Materialien: Metall, Edelsteine, transparente Materialien, reflektierende Materialien usw.
-2.4 Sicherheit verwenden
+ 2. 4 Sicherheit verwenden
 Verwenden Sie den Graveur nur in horizontaler Position und stellen Sie sicher, dass er sicher befestigt ist, um Brände zu vermeiden, die 
 durch versehentliches Verschieben oder Herunterfallen von der Werkbank während der Arbeit verursacht werden. Es ist verboten, den 
 Laser auf Personen, Tiere oder brennbare Gegenstände zu richten, unabhängig davon, ob er sich darin befindet Arbeitszustand oder 
 nicht.
-2.5 Stromsicherheit
+ 2. 5 Stromsicherheit
 Um versehentliche Katastrophen wie Feuer und Stromschlag zu vermeiden, wird der Lasergravierer mit einem Netzteil mit Erdungskabel 
 geliefert. Stecken Sie den Netzstecker mit einem Erdungskabel in die Steckdose, wenn Sie den Lasergravierer verwenden.
-2.6 Umwelt Sicherheit
+ 2. 6 Umwelt Sicherheit
 Stellen Sie beim Zusammenbau, Gravieren und Schneiden sicher, dass der Arbeitsplatz sauber ist und sich keine brennbaren und 
 explosiven Materialien um das Gerät befinden. Beim Gravieren oder Schneiden muss eine Metallplatte auf den Boden gelegt werden.

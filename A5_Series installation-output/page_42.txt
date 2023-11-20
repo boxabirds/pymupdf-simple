@@ -1,16 +1,16 @@
-É t a p e 1
+Étape 1
 Installation Manuel:
-1. Trouvez les quatre grands profils dans 
+ 1. Trouvez les quatre grands profils dans 
 l'image ci-dessus, placez les quatre profils 
 comme indiqué et faites attention à la 
 direction des profils.
-2. Serrez la vis M5 dans l'arbre et jugez si vous 
+ 2. Serrez la vis M 5 dans l'arbre et jugez si vous 
 l'avez installée correctement grâce aux détails 
 de la vue agrandie.
 Noter:
 a. Placez les vis, mais ne les serrez pas.
 b. Serrez ensuite les vis en diagonale.
-c. Outils nécessaires, clé Allen M5 + vis M5.
+c. Outils nécessaires, clé Allen M 5 + vis M 5.
 Logo face 
 vers le haut
 Le côté du trou est tourné 
@@ -20,4 +20,4 @@ X
 Y
 Cochez la direction de 
 la police
-Étape 1 Composants requis:
+Étape  1 Composants requis:
