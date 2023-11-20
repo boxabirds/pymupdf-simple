@@ -1,0 +1,15 @@
+4. Der Laser selbst hat eine Schutzabdeckung, die Schutzabdeckung ist mit Schrauben befestigt. Wenn der Laser auf dem Lasergravierer 
+installiert ist, sollte die Schutzabdeckung auf zuverlässige Verriegelung überprüft werden und kann im eingeschalteten Zustand nicht 
+entfernt werden. 
+5.Das Gehäuse des Lasergravierers sollte eine Verriegelungsfunktion haben. Wenn das Gehäuse geöffnet oder entfernt wird, kann der 
+Laser automatisch ausgeschaltet werden. 
+6.Der Lasergravierer sollte über einen Not-Aus-Taster verfügen, der die Ausgabe des Lasers sofort stoppen kann, wenn er unter 
+unerwarteten Umständen gedrückt wird. 
+7.Der Lasergravierer sollte über eine Rücksetztaste verfügen, mit der die Arbeit unter der Bedingung fortgesetzt werden kann, dass die 
+Sicherheit nach dem Anheben der Verriegelung oder des Not-Aus bestätigt wird. 
+8. Der Lasergravierer sollte physische Schlüssel, einen Dongle, ein Passwortsystem und andere Methoden zur Verwaltung und Kontrolle 
+verwenden, um zu verhindern, dass Personal ohne Sicherheitsschulung diese Art von Ausrüstung bedient. 
+9. Auf dem Lasergravierer sollten alle Fenster oder Kanäle angebracht werden, die die Laserstrahlung aktiv beobachten oder passiv 
+empfangen können. 
+10.Wenn der Laser die Haut oder die Augen verbrennt, gehen Sie bitte sofort zur Untersuchung und Behandlung in ein nahe gelegenes 
+Krankenhaus

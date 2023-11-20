@@ -1,0 +1,16 @@
+Laser Light can damage the human eyes and skin. Do not expose the eye or skin to laser light directly. This Laser product has an optical lens and emits a 
+collimated laser beam. The light from this product, both direct and reflected, is very harmful as it can propagate a long distance while maintaining high 
+optical density. When handling the product, wear appropriate safety glasses (OD5+) to protect eyes from laser light including reflected and stray light. 
+The reflected and stray light spilling into an unintended area should be attenuated and/or absorbed. 
+2.1  Laser safety
+We installed a laser shield on the laser, the shield can largely filter out the diffuse reflection of the laser spot.However, when using laser engraving 
+machine, it is recommended that you wear laser protective glasses. Avoid skin exposure to type 4 laser beams, especially at close range.Teenagers must 
+have parental supervision in the process of using it.Do not touch the laser engraving module when the machine is on.
+2.2 Fire Safety
+Because cutting burns off the substrate, a high-intensity laser beam generates extremely high temperatures and a lot of heat.Certain materials can catch 
+fire during cutting, creating gases and fumes inside the equipment.A small flame usually appears here when a laser beam hits the material.It will move 
+with the laser and will not stay lit when the laser passes by.Please do not leave the machine unattended during the carving process.After use, be 
+sure to clean up debris, debris and flammable materials in the laser cutting machine.Keep a working fire extinguisher nearby at all times.Smoke or air 
+pollutant safety. When laser engraving machines are used, smoke, vapour, particles, and potentially highly toxic materials (plastics and other 
+combustible materials) are produced from the material.These fumes or air pollutants can be hazardous to health.
+Part 2：User Security Statement

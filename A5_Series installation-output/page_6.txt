@@ -1,0 +1,19 @@
+Part 3: Disclaimer and warning
+This product is not a toy and is not suitable for people under 15 years of age. Do not allow children to touch the laser 
+Module. Please be careful when operating in scenes with children.
+This product is a laser 
+module, visit http://www.atomstack3d.com/laserengraverdownload for complete "user manual" and the latest instructions and warnings. Shen
+zhen AtomStack Technologies Co., Ltd. (Atomstack) reserves the right to update this Disclaimer and Safe Operation Guidelines.
+Please be sure to read this document carefully before using the product to understand your legal rights, responsibilities and safety instructions; 
+Otherwise, it may bring property loss, safety accident and hidden danger of personal safety. Once you use this product, you shall be deemed to 
+have understood, accepted and accepted all terms and contents of this document. User undertakes to be responsible for his or her actions and 
+all consequences arising therefrom. User agrees to use the Product only for legitimate purposes and agrees to the entire terms and contents of 
+this document and any relevant policies or guidelines that AtomStack may establish. 
+You understand and agree that AtomStack may not be able to provide you with the cause of the damage or accident and provide you with 
+AtomStack's after-sale service unless you provide  the original engraving or cutting files, engraving software configuration parameters used, 
+operating system information, video of the engraving or cutting process, and operational steps prior to the occurrence of a problem or failure.
+AtomStack is not liable for any and all losses arising from the user's failure to use the product in accordance with this manual,Without the 
+guidance of the company's technical personnel, users are prohibited from disassembling the machine by themselves. If this behavior occurs, the 
+loss caused by the user shall be borne by the user.
+Atomstack has the ultimate right to interpret the document, subject to legal compliance. Atomstack reserves the right to update, modify, or ter
+minate the Terms without prior notice.

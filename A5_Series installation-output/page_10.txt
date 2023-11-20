@@ -1,0 +1,38 @@
+S t e p 3
+Installation Manual:
+1. Install two synchronous belts as shown in the figure. First 
+tighten one end with a T-nut, then pass the other end 
+through the roller on the X-axis assembly as shown in the 
+figure, and finally tighten the other end and fix it with a T-
+nut.
+2. T-nut fixing method (Push the T-nut from the groove on 
+the end of the profile, and then use the screw to tighten the 
+T-nut), the T-nut is as close to the end of the profile as 
+possible, and cut off the excess belt.
+3. Cover the profile end cover (the side of the end cap with 
+protrusions is facing down)
+TIPS:
+The installation of the Y-axis synchronous belt can refer to 
+the installed synchronous belt on the X-axis 
+assembly.Determine whether the timing belt is tight enough: 
+press the position shown in Figure 4 with your fingers, and if 
+there is no obvious deformation, it is tight enough. If the 
+deformation is large, loosen one end of the T-nut and 
+tighten the timing belt, and then tighten the T-nut.
+1
+3
+3
+3
+3
+Type T Nut *4
+Type T Nut Lock 
+       screws*4
+2
+Profile end cover *4
+Synchronous belt *2
+4
+Tighten the T 
+nut and cut off 
+the excess belt.
+5
+Step3 Requiredcomponents:

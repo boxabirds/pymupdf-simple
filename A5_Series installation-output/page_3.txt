@@ -1,0 +1,13 @@
+4. The laser itself has a protective cover, the protective cover is fastened by screws. When the laser is installed on the laser engraver, the 
+protective cover should be checked to be reliably locked, and can not be removed in the energized state.
+5. The housing of the laser engraver should have an interlock function. When the housing is opened or removed, the laser can be 
+automatically turned off.
+6. The laser engraver should have an emergency stop button, which can immediately stop the output of the laser when pressed under 
+unexpected circumstances.
+7. The laser engraver should have a reset button, which can resume work under the condition of confirming safety after lifting the 
+interlock or emergency stop.
+8. Laser engraver should use physical keys, dongle, password system and other ways to manage and control, to prevent personnel 
+without security training operation of this kind of equipment.
+9. On the laser engraver any window or channel that can actively observe or passively receive the laser radiation should be set up 
+warning marks.
+10. If the laser burns the skin or eyes, please go to a nearby hospital for examination and treatment immediately.

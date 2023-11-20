@@ -1,0 +1,42 @@
+S c h r i t t  3
+Installationsanleitung:
+1. Installieren Sie zwei Synchronriemen wie in der Abbildung 
+gezeigt (ziehen Sie zuerst ein Ende mit einer T-Mutter fest, 
+führen Sie dann das andere Ende durch die Rolle an der X-
+Achsen-Komponent und ziehen Sie schließlich das andere Ende 
+fest und befestigen Sie es mit einer T-Mutter). Installieren Sie es 
+auf die gleiche Weise ein anderer Zahnriemen.
+2. Befestigungsmethode für die T-Mutter (drücken Sie die T-
+Mutter aus der Nut an der Endfläche des Profils und ziehen Sie 
+die T-Mutter dann mit einer Schraube fest). Die T-Mutter 
+befindet sich so nahe wie möglich am Ende des Profils und der 
+überschüssige Riemen wird abgeschnitten.
+3. Decken Sie die Profilendkappe ab (die Seite der Endkappe mit 
+den Vorsprüngen zeigt nach unten).
+TIPPS：
+Die Installation des Y-Achsen-Synchronriemens kann sich auf den auf 
+der X-Achsen-Komponent installierten Synchronriemen beziehen.
+Stellen Sie fest, ob der Synchronriemen fest genug ist, und drücken Sie 
+mit den Fingern auf die in Abbildung 4 gezeigte Position. Wenn keine 
+offensichtliche Verformung vorliegt, ist sie fest genug. Wenn die 
+Verformung groß ist, lösen Sie ein Ende der T-Mutter, ziehen Sie den 
+Synchronriemen fest und ziehen Sie die T-Mutter fest. .
+1
+3
+3
+3
+3
+T-Muttern*4
+Konterschraube 
+mit T-Mutter *4
+2
+Profilendkapp
+e*4
+Synchronriemen*2
+Step3 
+Komponent：
+4
+T-Muttern festziehen, 
+die überschüssige 
+Riemen abschneiden
+5

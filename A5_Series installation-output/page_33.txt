@@ -1,0 +1,11 @@
+Teil 6：Vorsichtsmaßnahmen bei häufigen 
+Problemen der Gravurmaschine 
+1. Die Verbindung zwischen der Software und dem Gerät muss den richtigen COM-Anschluss auswählen, die Baudrate 
+auswählen: 115200, um zu überprüfen, ob die Computerschnittstelle und die USB-Verbindung lose sind.
+2. Überprüfen Sie vor dem Gravieren, ob jeder Mechanismus locker ist (ob der Zahnriemen, die exzentrische Säule des Rollen- 
+und des Laserkopfteils locker oder geschüttelt sind).
+3. Stellen Sie den Fokus richtig ein und vergewissern Sie sich, dass der Abstand vom Ende der Laserschutzabdeckung zur Gravur 
+2 mm beträgt. 
+  
+4. Die LaserGRBL / LightBurn-Software kann anhand der Parametertabelle im entsprechenden Handbuch verschiedene 
+Materialien gravieren und schneiden. Die Gravur von Spiegelmetall erfordert eine manuelle Schwärzung der Oberfläche.

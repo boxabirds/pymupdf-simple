@@ -1,0 +1,22 @@
+Teil 3: Haftungsausschluss und Warnung
+Dieses Produkt ist kein Spielzeug und nicht für Personen unter 15 Jahren geeignet. Lassen Sie Kinder das Lasermodul nicht berühren. Bitte 
+seien Sie vorsichtig, wenn Sie in Szenen mit Kindern arbeiten.
+Dieses Produkt ist ein Lasermodul. Unter http://www.atomstack3d.com/laserengraverdownload finden Sie das vollständige 
+"Benutzerhandbuch" sowie die neuesten Anweisungen und Warnungen. Shenzhen AtomStack Technologies Co., Ltd. (Atomstack) behält sich 
+das Recht vor, diesen Haftungsausschluss und die Richtlinien für den sicheren Betrieb zu aktualisieren.
+Bitte lesen Sie dieses Dokument sorgfältig durch, bevor Sie das Produkt verwenden, um Ihre gesetzlichen Rechte, Pflichten und 
+Sicherheitshinweise zu verstehen. Andernfalls kann es zu Sachschäden, Sicherheitsunfällen und versteckten Gefahren für die persönliche 
+Sicherheit kommen. Sobald Sie dieses Produkt verwenden, wird davon ausgegangen, dass Sie alle Bedingungen und Inhalte dieses Dokuments 
+verstanden, akzeptiert und akzeptiert haben. Der Benutzer verpflichtet sich, für seine Handlungen und alle daraus resultierenden 
+Konsequenzen verantwortlich zu sein. Der Benutzer erklärt sich damit einverstanden, das Produkt nur für legitime Zwecke zu verwenden, und 
+stimmt den gesamten Bedingungen und Inhalten dieses Dokuments sowie allen relevanten Richtlinien oder Richtlinien zu, die AtomStack 
+möglicherweise festlegt.
+Sie verstehen und stimmen zu, dass AtomStack Ihnen möglicherweise nicht die Ursache des Schadens oder Unfalls mitteilen und Ihnen den 
+Kundendienst von AtomStack anbieten kann, es sei denn, Sie stellen die Original-Gravur- oder Schnittdateien, die verwendeten Gravur-
+Softwarekonfigurationsparameter, Betriebssysteminformationen usw. zur Verfügung. Video des Gravur- oder Schneidprozesses und der 
+Arbeitsschritte vor dem Auftreten eines Problems oder Fehlers.
+AtomStack haftet nicht für Verluste, die dadurch entstehen, dass der Benutzer das Produkt nicht gemäß diesem Handbuch verwendet,Ohne 
+Anleitung des technischen Personals des Unternehmens ist es dem Benutzer untersagt, die Maschine selbst zu demontieren.Wenn dieses 
+Verhalten auftritt, trägt der Benutzer den vom Benutzer verursachten Schaden.
+Atomstack hat das ultimative Recht, das Dokument zu interpretieren, sofern die gesetzlichen Bestimmungen eingehalten werden. Atomstack 
+behält sich das Recht vor, die Nutzungsbedingungen ohne vorherige Ankündigung zu aktualisieren, zu ändern oder zu beenden.

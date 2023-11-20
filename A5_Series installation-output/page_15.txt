@@ -1,0 +1,11 @@
+Part 5：Maintenance instructions and warning
+This product uses a highly integrated design and requires no maintenance. However, if the laser system installed with this 
+product needs to be repaired or tuned, please:
+Unplug the power cord on the laser, so that the laser is in a state of power failure;
+If you need laser assistance for tuning, please:
+All present personnel wear protective glasses,OD5+ protective glass is needed ;
+Make sure there are no flammable or explosive materials around;
+The position and direction of the laser are fixed to ensure that the laser will not accidentally move and shine on people, 
+animals, flammable, explosive and other dangerous and valuable objects during debugging.
+Don't look at lasers
+Do not shine the laser on the mirror object, lest the laser reflection cause accidental injury.

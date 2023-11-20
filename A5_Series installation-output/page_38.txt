@@ -1,0 +1,20 @@
+La lumière laser peut endommager les yeux et la peau humains. N'exposez pas les yeux ou la peau directement à la lumière laser. Ce produit 
+laser a une lentille optique et émet un faisceau laser collimaté. La lumière de ce produit, à la fois directe et réfléchie, est très nocive car elle peut 
+se propager sur une longue distance tout en conservant une densité optique élevée. Lors de la manipulation du produit, porter des lunettes de 
+sécurité appropriées (OD5 +) pour protéger les yeux de la lumière laser, y compris la lumière réfléchie et la lumière parasite. La lumière 
+réfléchie et parasite qui se répand dans une zone non intentionnelle doit être atténuée et / ou absorbée.
+2.1 Sécurité laser
+Nous avons installé un bouclier laser sur le laser, le bouclier peut filtrer en grande partie la réflexion diffuse du point laser.Cependant, lorsque 
+vous utilisez une machine de gravure laser, il est recommandé de porter des lunettes de protection laser. Évitez l'exposition de la peau aux 
+faisceaux laser de type 4, en particulier à courte distance.Les adolescents doivent être surveillés par leurs parents lors du processus 
+d'utilisation.Ne touchez pas le module de gravure laser lorsque la machine est allumée.
+2.2 Sécurité incendie
+Parce que la découpe brûle le substrat, un faisceau laser à haute intensité génère des températures extrêmement élevées et beaucoup de 
+chaleur.Certains matériaux peuvent prendre feu pendant la découpe, créant des gaz et des fumées à l'intérieur de l'équipement.Une petite 
+flamme apparaît généralement ici lorsqu'un faisceau laser frappe le matériau.Il se déplacera avec le laser et ne restera pas allumé lorsque le 
+laser passe.Veuillez ne pas laisser la machine sans surveillance pendant le processus de sculpture.Après utilisation, assurez-vous de 
+nettoyer les débris, les débris et les matériaux inflammables dans la découpe laser Gardez un extincteur en état de marche à proximité en tout 
+temps Sécurité contre la fumée ou les polluants atmosphériques. Lorsque des machines de gravure laser sont utilisées, de la fumée, de la 
+vapeur, des particules et des matériaux potentiellement hautement toxiques (plastiques et autres matériaux combustibles) sont produits à partir 
+du matériau. Ces fumées ou polluants atmosphériques peuvent être dangereux pour la santé.
+Partie 2 ： Déclaration de sécurité de l'utilisateur

@@ -1,0 +1,27 @@
+FIG. 1-1
+FIG. 1-2
+Um den Treiber für Macos zu aktualisieren, melden Sie sich 
+auf der Website http://atomstack3d.com/a5 an und klicken 
+Sie, um den Macos-Treiber herunterzuladen (siehe 
+Abbildung unten).
+➢2. Wenn die Graviermaschine und der Computer nicht verbunden 
+werden können, müssen Sie den Treiber aktualisieren. (Weitere 
+Informationen finden Sie in der Bedienungsanleitung.) Klicken Sie in 
+LaserGRBL auf "Extras">. Linstall CH340-Treiber "Aktualisieren und 
+installieren Sie den Treiber, starten Sie den Computer nach dem Update 
+neu und stellen Sie dann eine Verbindung her, wie unten gezeigt.
+Scannen Sie nach einer mehrsprachigen 
+Bedienungsanleitung:
+Scanner APP:
+  QR-Code-Leser
+/Barcodelesegerät
+oder eine beliebige APP 
+mit Scanner 
+➢1.Atomstack currently supports LaserGRBL and LightBurn 
+software.
+➢Windows-Betriebssystem unterstützt nur LaserGRBL， Hier 
+ist der Download-Link: http://lasergrbl.com/download/
+➢Mac OS unterstützt sowohl LaserGRBL als auch Lightburn,   
+Dies ist der Download-Link: 
+https://lightburnsoftware.com/pages/trial-version-try-before-
+you-buy

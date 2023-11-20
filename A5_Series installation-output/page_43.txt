@@ -1,0 +1,28 @@
+É t a p e  2
+Installation Manuel:
+1.Poussez le composant de l'axe X dans le cadre 
+de base dans la direction indiquée sur la figure. 
+Ajustez correctement l'écrou excentrique.
+2.Installez le boîtier de commande comme indiqué.
+3. Utilisez une clé Allen M5 pour installer 3 joints 
+de support.
+Boîtier de 
+commande *1
+Vis M5 * 8
+Joint de 
+support * 3
+Composants de l'axe X * 1
+Étape 2 Composants requis:
+1
+1
+2
+3
+3
+3
+Le rail de guidage passe par le 
+milieu des 3 rouleaux. Relâchez 
+la distance entre les roues de 
+guidage supérieure et inférieure 
+de manière appropriée.
+Y
+X

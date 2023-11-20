@@ -1,0 +1,26 @@
+FIG. 1-1
+FIG. 1-2
+Pour mettre à jour le pilote Macos, connectez-vous au site 
+Web http://atomstack3d.com/a5 et cliquez pour télécharger 
+le pilote Macos comme indiqué ci-dessous
+➢2. Si vous ne parvenez pas à connecter la machine de gravure et 
+l'ordinateur, vous devez mettre à jour le pilote. (Pour plus d'informations, 
+consultez le manuel d'instructions.) Dans LaserGRBL, cliquez sur "Outils". 
+Pilote Linstall CH340 "Mettez à jour et installez le pilote, redémarrez 
+l'ordinateur après la mise à jour, puis connectez-vous comme indiqué 
+dans la figure ci-dessous.
+Rechercher un manuel d'instructions multilingue:
+APP du scanner:
+    Lecteur de code QR
+/ Scanner de codes-
+barres
+Ou n'importe quelle 
+application avec scanner
+➢1.Atostack prend actuellement en charge les logiciels LaserGRBL et 
+LightBurn.
+➢Le système d'exploitation Windows ne prend en charge que 
+LaserGRBL Voici le lien de téléchargement: 
+http://lasergrbl.com/download/
+➢Mac OS prend en charge à la fois LaserGRBL et Lightburn. Ceci est le 
+lien de téléchargement: https://lightburnsoftware.com/pages/trial-
+version-try-before-you-buy

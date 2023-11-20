@@ -1,0 +1,14 @@
+4.Le laser lui-même a un couvercle de protection, le couvercle de protection est fixé par des vis. Lorsque le laser est installé sur le 
+graveur laser, le couvercle de protection doit être vérifié pour être verrouillé de manière fiable et ne peut pas être retiré à l'état sous 
+tension.
+5.Le boîtier du graveur laser doit avoir une fonction de verrouillage. Lorsque le boîtier est ouvert ou retiré, le laser peut être 
+automatiquement désactivé.
+6.Le graveur laser doit avoir un bouton d'arrêt d'urgence, qui peut immédiatement arrêter la sortie du laser lorsqu'il est pressé dans des 
+circonstances inattendues.
+7.Le graveur laser doit avoir un bouton de réinitialisation, qui peut reprendre le travail à condition de confirmer la sécurité après avoir 
+levé le verrouillage ou l'arrêt d'urgence.
+8.Le graveur laser doit utiliser des clés physiques, un dongle, un système de mot de passe et d'autres moyens de gérer et de contrôler, 
+pour empêcher le personnel sans opération de formation à la sécurité de ce type d'équipement.
+9.Sur le graveur laser, toute fenêtre ou canal qui peut observer activement ou recevoir passivement le rayonnement laser doit être mis en 
+place des marques d'avertissement.
+10.Si le laser brûle la peau ou les yeux, veuillez vous rendre immédiatement dans un hôpital voisin pour un examen et un traitement.

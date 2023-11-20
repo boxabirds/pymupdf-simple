@@ -1,0 +1,32 @@
+Installationsanleitung: 
+1. Befestigen Sie die Y-Achsen-Begrenzungssäule wie 
+in der Abbildung gezeigt mit M3 * 14-Schrauben an 
+der linken Gleitschiene.
+2. Stellen Sie die Festigkeit der Exzentermutter auf die 
+richtige Festigkeit ein, um sicherzustellen, dass sich 
+die X- und Y-Achse reibungslos bewegen, ohne zu 
+zittern.
+TIPPS：
+Wie kann man die Dichtheit von Exzentermuttern 
+bestimmen?
+Unter der Bedingung, dass die Halterung nicht 
+wackelt, können Sie ein Ende der Maschine in einem 
+Winkel von 45 Grad zur horizontalen Ebene anheben 
+und die Halterung der X- oder Y-Achse von einer 
+hohen Stelle lösen. Wenn die Halterung mit 
+konstanter Geschwindigkeit zum Ende gleiten kann, 
+ist die Dichtheit geeignet .
+Y
+X
+M3*14Schrauben*1
+(Pro:M3*14Schrauben*2)
+Y-Achsen-
+Begrenzungssäule*1
+(Pro:Y-Achsen-
+Begrenzungssäule*2)
+Schritt 5 Erforderliche Komponenten:
+S c h r i t t  5
+Ziehen Sie die Exzentermutter mit 
+einem Schraubenschlüssel an, um 
+die Dichtheit des Führungsrads und 
+der Führungsschiene einzustellen.
